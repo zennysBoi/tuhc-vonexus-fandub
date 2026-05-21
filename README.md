@@ -6,27 +6,30 @@ as implemented by zenny
 
 Adds Voice Over Nexus' Homestuck fan-dub to the Collection. By default, clips are set to autoplay and are at 70% volume (or they should be, at least), both of which can be changed in the settings of the mod in UHC.
 
-===Notes=======================================
-- **THIS DUB IS NOT COMPLETE**. As many reading this can attest, Homestuck is very big, and a project such as a fandub that is done out of love and force of will takes a lot of time. As of version 0.1, this mod implements the fandub up to page 40.
+Notes
 
--**THIS DUB IS NOT MINE**, and neither is the Unofficial Homestuck Collection or Homestuck itself. I take no credit for the creation of the dub, I just made a simple mod to give the UHC the assets and pointers to do this.
+--THIS DUB IS NOT COMPLETE. As many reading this can attest, Homestuck is very big, and a project such as a fandub that is done out of love and force of will takes a lot of time. As of version 0.1, this mod implements the fandub up to page 40.
 
--As with any decade-long project, the VOnexus fandub has it's ups and downs, though I find it a pleasurable way to experience Homestuck regardless. I did minimal edits to the audio (mostly cutting it into the pages and removing some conjunctions to make it flow better). Audio volume, quality, and experience will vary over the course of the fandub.
+--THIS DUB IS NOT MINE, and neither is the Unofficial Homestuck Collection or Homestuck itself. I take no credit for the creation of the dub, I just made a simple mod to give the UHC the assets and pointers to do this.
 
--Pages 1-20 have background music in the clips, because the corresponding video has background music. I have no means of fixing this that I am comfortable with. I am thankful they did not continue using background music.
+--As with any decade-long project, the VOnexus fandub has it's ups and downs, though I find it a pleasurable way to experience Homestuck regardless. I did minimal edits to the audio (mostly cutting it into the pages and removing some conjunctions to make it flow better). Audio volume, quality, and experience will vary over the course of the fandub.
 
-===Credits======================================
--Andrew Hussie, creator of Homestuck
+--Pages 1-20 have background music in the clips, because the corresponding video has background music. I have no means of fixing this that I am comfortable with. I am thankful they did not continue using background music.
 
--Bambosh and Giovan_h, creators of the Unofficial Homestuck Collection
+Credits
+
+--Andrew Hussie, creator of Homestuck
+
+--Bambosh and Giovan_h, creators of the Unofficial Homestuck Collection
 https://homestuck.github.io
 
--Voice Over Nexus
+--Voice Over Nexus
 https://www.youtube.com/@Voxus
 https://bsky.app/profile/voxus.bsky.social
 
--And finally, the wonderful cast of the dub. Thank you for your hard work and dedication over the years. You've made this community better for every person you've touched.
+--And finally, the wonderful cast of the dub. Thank you for your hard work and dedication over the years. You've made this community better for every person you've touched.
 https://voiceovernexus.tumblr.com/post/22411586910/cast-list
 
 Started - 5/21/26
+
 Released - [TBD]
