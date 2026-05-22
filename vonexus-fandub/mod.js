@@ -13,7 +13,13 @@ module.exports = {
             model: "autoplay",
             label: "Autoplay",
             desc: "Automatically play fandub audio when a page loads."
+        },
+        {
+            model: "cleanAudio",
+            label: "Clean Audio",
+            desc: "Replaces slurs with a reversed version of the word."
         }],
+
         radio: [{
             model: "volume",
             label: "Default Volume",
@@ -38,6 +44,7 @@ module.exports = {
         store = api.store
         api.store.set("autoplay", api.store.get("autoplay", true))
         api.store.set("volume", api.store.get("volume", "70"))
+        api.store.set("cleanAudio", api.store.get("cleanAudio", false))
     },
 
     routes: {},
@@ -45,18 +52,19 @@ module.exports = {
     edit(archive) {
         const autoplay = store.get("autoplay", true) ? "autoplay" : ""
         const volume = (parseInt(store.get("volume", "70")) / 100).toFixed(2)
+        const cleanAudio = store.get("cleanAudio", false)
 
         for (const pageNum in audioMapping) {
             const page = archive.mspa.story[pageNum]
             if (!page) continue
 
-            const audioFile = audioMapping[pageNum]
+            const entry = audioMapping[pageNum]
+            const audioFile = (cleanAudio && entry.cleanFile) ? entry.cleanFile : entry.file
             const assetPath = `assets://mods/vonexus-fandub/${audioFile}`
 
             module.exports.routes[assetPath] = `./${audioFile}`
 
             const audioTag = `<audio class="von-player" controls ${autoplay} src="${assetPath}" oncanplay="this.volume=${volume};"></audio>`
-
             page.content = page.content + audioTag
         }
     },
