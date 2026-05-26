@@ -1,3 +1,4 @@
+// Make variables for the rest of the file to use
 let audioMapping = {}
 let store = {}
 
@@ -6,7 +7,7 @@ module.exports = {
     author: "zenny",
     summary: "Implements the Voice Over Nexus fandub.",
     description: "Automatically plays the Voice Over Nexus fandub audio of each page. Audio settings can be found in the UHC mod manager. This dub is neither mine, nor is it complete.",
-    modVersion: 1,
+    modVersion: 0.2,
 
     settings: {
         boolean: [{
@@ -16,13 +17,13 @@ module.exports = {
         },
         {
             model: "cleanAudio",
-            label: "Clean Audio",
-            desc: "Replaces slurs with a reversed version of the word."
+            label: "Censor Sensitive Stuff",
+            desc: "Censors slurs and the more graphic self-harm references by reversing the audio."
         }],
 
         radio: [{
             model: "volume",
-            label: "Default Volume",
+            label: "Volume",
             desc: "The default volume for fandub audio.",
             options: [
                 { value: "10", label: "10%" },
