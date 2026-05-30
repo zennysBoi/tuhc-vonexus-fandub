@@ -16,6 +16,11 @@ module.exports = {
             desc: "Automatically play fandub audio when a page loads."
         },
         {
+            model: "fullRecap",
+            label: "Full Recaps",
+            desc: "Replaces truncated recap audio with the full recap recording."
+        },
+        {
             model: "cleanAudio",
             label: "Censor Sensitive Stuff",
             desc: "Censors slurs and the more graphic self-harm references by reversing the audio."
@@ -46,6 +51,7 @@ module.exports = {
         api.store.set("autoplay", api.store.get("autoplay", true))
         api.store.set("volume", api.store.get("volume", "70"))
         api.store.set("cleanAudio", api.store.get("cleanAudio", false))
+        api.store.set("fullRecap", api.store.get("fullRecap", false))
     },
 
     routes: {},
@@ -54,13 +60,14 @@ module.exports = {
         const autoplay = store.get("autoplay", true) ? "autoplay" : ""
         const volume = (parseInt(store.get("volume", "70")) / 100).toFixed(2)
         const cleanAudio = store.get("cleanAudio", false)
+        const fullRecap = store.get("fullRecap", false)
 
         for (const pageNum in audioMapping) {
             const page = archive.mspa.story[pageNum]
             if (!page) continue
 
             const entry = audioMapping[pageNum]
-            const audioFile = (cleanAudio && entry.cleanFile) ? entry.cleanFile : entry.file
+            const audioFile = (cleanAudio && entry.cleanFile) ? entry.cleanFile : (fullRecap && entry.recapFile) ? entry.recapFile : entry.file
             const assetPath = `assets://mods/vonexus-fandub/${audioFile}`
 
             module.exports.routes[assetPath] = `./${audioFile}`
