@@ -4908,5 +4908,1492 @@
     "003888": {
         "file": "audio/act4/page_003888.mp3",
         "recapFile": "audio/act4/page_003888_recap.mp3"
+    },
+    "003889": {
+        "file": "audio/act5/page_003889.mp3"
+    },
+    "003890": {
+        "file": "audio/act5/page_003890.mp3"
+    },
+    "003891": {
+        "file": "audio/act5/page_003891.mp3"
+    },
+    "003892": {
+        "file": "audio/act5/page_003892.mp3"
+    },
+    "003893": {
+        "file": "audio/act5/page_003893.mp3"
+    },
+    "003894": {
+        "file": "audio/act5/page_003894.mp3"
+    },
+    "003895": {
+        "file": "audio/act5/page_003895.mp3"
+    },
+    "003896": {
+        "file": "audio/act5/page_003896.mp3"
+    },
+    "003897": {
+        "file": "audio/act5/page_003897.mp3"
+    },
+    "003898": {
+        "file": "audio/act5/page_003898.mp3"
+    },
+    "003899": {
+        "file": "audio/act5/page_003899.mp3"
+    },
+    "003900": {
+        "file": "audio/act5/page_003900.mp3"
+    },
+    "003901": {
+        "file": "audio/act5/page_003901.mp3"
+    },
+    "003902": {
+        "file": "audio/act5/page_003902.mp3"
+    },
+    "003903": {
+        "file": "audio/act5/page_003903.mp3"
+    },
+    "003904": {
+        "file": "audio/act5/page_003904.mp3"
+    },
+    "003905": {
+        "file": "audio/act5/page_003905.mp3"
+    },
+    "003906": {
+        "file": "audio/act5/page_003906.mp3"
+    },
+    "003907": {
+        "file": "audio/act5/page_003907.mp3"
+    },
+    "003908": {
+        "file": "audio/act5/page_003908.mp3"
+    },
+    "003909": {
+        "file": "audio/act5/page_003909.mp3"
+    },
+    "003910": {
+        "file": "audio/act5/page_003910.mp3"
+    },
+    "003911": {
+        "file": "audio/act5/page_003911.mp3"
+    },
+    "003912": {
+        "file": "audio/act5/page_003912.mp3"
+    },
+    "003913": {
+        "file": "audio/act5/page_003913.mp3"
+    },
+    "003914": {
+        "file": "audio/act5/page_003914.mp3"
+    },
+    "003915": {
+        "file": "audio/act5/page_003915.mp3"
+    },
+    "003916": {
+        "file": "audio/act5/page_003916.mp3"
+    },
+    "003917": {
+        "file": "audio/act5/page_003917.mp3"
+    },
+    "003918": {
+        "file": "audio/act5/page_003918.mp3"
+    },
+    "003919": {
+        "file": "audio/act5/page_003919.mp3"
+    },
+    "003920": {
+        "file": "audio/act5/page_003920.mp3"
+    },
+    "003921": {
+        "file": "audio/act5/page_003921.mp3"
+    },
+    "003922": {
+        "file": "audio/act5/page_003922.mp3"
+    },
+    "003923": {
+        "file": "audio/act5/page_003923.mp3"
+    },
+    "003924": {
+        "file": "audio/act5/page_003924.mp3"
+    },
+    "003925": {
+        "file": "audio/act5/page_003925.mp3"
+    },
+    "003926": {
+        "file": "audio/act5/page_003926.mp3"
+    },
+    "003927": {
+        "file": "audio/act5/page_003927.mp3"
+    },
+    "003928": {
+        "file": "audio/act5/page_003928.mp3"
+    },
+    "003930": {
+        "file": "audio/act5/page_003930.mp3"
+    },
+    "003931": {
+        "file": "audio/act5/page_003931.mp3"
+    },
+    "003932": {
+        "file": "audio/act5/page_003932.mp3"
+    },
+    "003933": {
+        "file": "audio/act5/page_003933.mp3"
+    },
+    "003935": {
+        "file": "audio/act5/page_003935.mp3"
+    },
+    "003936": {
+        "file": "audio/act5/page_003936.mp3"
+    },
+    "003937": {
+        "file": "audio/act5/page_003937.mp3"
+    },
+    "003938": {
+        "file": "audio/act5/page_003938.mp3"
+    },
+    "003939": {
+        "file": "audio/act5/page_003939.mp3"
+    },
+    "003940": {
+        "file": "audio/act5/page_003940.mp3"
+    },
+    "003941": {
+        "file": "audio/act5/page_003941.mp3"
+    },
+    "003942": {
+        "file": "audio/act5/page_003942.mp3"
+    },
+    "003943": {
+        "file": "audio/act5/page_003943.mp3"
+    },
+    "003944": {
+        "file": "audio/act5/page_003944.mp3"
+    },
+    "003945": {
+        "file": "audio/act5/page_003945.mp3"
+    },
+    "003946": {
+        "file": "audio/act5/page_003946.mp3"
+    },
+    "003947": {
+        "file": "audio/act5/page_003947.mp3"
+    },
+    "003950": {
+        "file": "audio/act5/page_003950.mp3"
+    },
+    "003951": {
+        "file": "audio/act5/page_003951.mp3"
+    },
+    "003952": {
+        "file": "audio/act5/page_003952.mp3"
+    },
+    "003953": {
+        "file": "audio/act5/page_003953.mp3"
+    },
+    "003954": {
+        "file": "audio/act5/page_003954.mp3"
+    },
+    "003955": {
+        "file": "audio/act5/page_003955.mp3"
+    },
+    "003956": {
+        "file": "audio/act5/page_003956.mp3"
+    },
+    "003957": {
+        "file": "audio/act5/page_003957.mp3"
+    },
+    "003958": {
+        "file": "audio/act5/page_003958.mp3"
+    },
+    "003959": {
+        "file": "audio/act5/page_003959.mp3"
+    },
+    "003960": {
+        "file": "audio/act5/page_003960.mp3"
+    },
+    "003961": {
+        "file": "audio/act5/page_003961.mp3"
+    },
+    "003962": {
+        "file": "audio/act5/page_003962.mp3"
+    },
+    "003965": {
+        "file": "audio/act5/page_003965.mp3"
+    },
+    "003966": {
+        "file": "audio/act5/page_003966.mp3"
+    },
+    "003967": {
+        "file": "audio/act5/page_003967.mp3"
+    },
+    "003968": {
+        "file": "audio/act5/page_003968.mp3"
+    },
+    "003969": {
+        "file": "audio/act5/page_003969.mp3"
+    },
+    "003970": {
+        "file": "audio/act5/page_003970.mp3"
+    },
+    "003971": {
+        "file": "audio/act5/page_003971.mp3"
+    },
+    "003972": {
+        "file": "audio/act5/page_003972.mp3"
+    },
+    "003973": {
+        "file": "audio/act5/page_003973.mp3"
+    },
+    "003974": {
+        "file": "audio/act5/page_003974.mp3"
+    },
+    "003975": {
+        "file": "audio/act5/page_003975.mp3"
+    },
+    "003976": {
+        "file": "audio/act5/page_003976.mp3"
+    },
+    "003977": {
+        "file": "audio/act5/page_003977.mp3"
+    },
+    "003978": {
+        "file": "audio/act5/page_003978.mp3"
+    },
+    "003979": {
+        "file": "audio/act5/page_003979.mp3"
+    },
+    "003980": {
+        "file": "audio/act5/page_003980.mp3"
+    },
+    "003981": {
+        "file": "audio/act5/page_003981.mp3"
+    },
+    "003982": {
+        "file": "audio/act5/page_003982.mp3",
+        "cleanFile": "audio/act5/page_003982_clean.mp3"
+    },
+    "003984": {
+        "file": "audio/act5/page_003984.mp3"
+    },
+    "003985": {
+        "file": "audio/act5/page_003985.mp3"
+    },
+    "003986": {
+        "file": "audio/act5/page_003986.mp3"
+    },
+    "003987": {
+        "file": "audio/act5/page_003987.mp3"
+    },
+    "003988": {
+        "file": "audio/act5/page_003988.mp3"
+    },
+    "003989": {
+        "file": "audio/act5/page_003989.mp3"
+    },
+    "003990": {
+        "file": "audio/act5/page_003990.mp3"
+    },
+    "003991": {
+        "file": "audio/act5/page_003991.mp3"
+    },
+    "003992": {
+        "file": "audio/act5/page_003992.mp3"
+    },
+    "003993": {
+        "file": "audio/act5/page_003993.mp3"
+    },
+    "003994": {
+        "file": "audio/act5/page_003994.mp3"
+    },
+    "003996": {
+        "file": "audio/act5/page_003996.mp3"
+    },
+    "004000": {
+        "file": "audio/act5/page_004000.mp3"
+    },
+    "004001": {
+        "file": "audio/act5/page_004001.mp3"
+    },
+    "004002": {
+        "file": "audio/act5/page_004002.mp3"
+    },
+    "004008": {
+        "file": "audio/act5/page_004008.mp3"
+    },
+    "004009": {
+        "file": "audio/act5/page_004009.mp3"
+    },
+    "004010": {
+        "file": "audio/act5/page_004010.mp3"
+    },
+    "004011": {
+        "file": "audio/act5/page_004011.mp3"
+    },
+    "004012": {
+        "file": "audio/act5/page_004012.mp3"
+    },
+    "004013": {
+        "file": "audio/act5/page_004013.mp3"
+    },
+    "004014": {
+        "file": "audio/act5/page_004014.mp3"
+    },
+    "004015": {
+        "file": "audio/act5/page_004015.mp3"
+    },
+    "004016": {
+        "file": "audio/act5/page_004016.mp3"
+    },
+    "004017": {
+        "file": "audio/act5/page_004017.mp3"
+    },
+    "004018": {
+        "file": "audio/act5/page_004018.mp3"
+    },
+    "004019": {
+        "file": "audio/act5/page_004019.mp3"
+    },
+    "004020": {
+        "file": "audio/act5/page_004020.mp3"
+    },
+    "004021": {
+        "file": "audio/act5/page_004021.mp3"
+    },
+    "004022": {
+        "file": "audio/act5/page_004022.mp3"
+    },
+    "004023": {
+        "file": "audio/act5/page_004023.mp3"
+    },
+    "004024": {
+        "file": "audio/act5/page_004024.mp3"
+    },
+    "004025": {
+        "file": "audio/act5/page_004025.mp3"
+    },
+    "004026": {
+        "file": "audio/act5/page_004026.mp3"
+    },
+    "004027": {
+        "file": "audio/act5/page_004027.mp3"
+    },
+    "004028": {
+        "file": "audio/act5/page_004028.mp3"
+    },
+    "004029": {
+        "file": "audio/act5/page_004029.mp3"
+    },
+    "004030": {
+        "file": "audio/act5/page_004030.mp3"
+    },
+    "004031": {
+        "file": "audio/act5/page_004031.mp3"
+    },
+    "004032": {
+        "file": "audio/act5/page_004032.mp3"
+    },
+    "004033": {
+        "file": "audio/act5/page_004033.mp3"
+    },
+    "004034": {
+        "file": "audio/act5/page_004034.mp3"
+    },
+    "004035": {
+        "file": "audio/act5/page_004035.mp3"
+    },
+    "004036": {
+        "file": "audio/act5/page_004036.mp3"
+    },
+    "004037": {
+        "file": "audio/act5/page_004037.mp3"
+    },
+    "004038": {
+        "file": "audio/act5/page_004038.mp3"
+    },
+    "004039": {
+        "file": "audio/act5/page_004039.mp3"
+    },
+    "004040": {
+        "file": "audio/act5/page_004040.mp3"
+    },
+    "004041": {
+        "file": "audio/act5/page_004041.mp3"
+    },
+    "004043": {
+        "file": "audio/act5/page_004043.mp3"
+    },
+    "004044": {
+        "file": "audio/act5/page_004044.mp3"
+    },
+    "004045": {
+        "file": "audio/act5/page_004045.mp3"
+    },
+    "004046": {
+        "file": "audio/act5/page_004046.mp3"
+    },
+    "004047": {
+        "file": "audio/act5/page_004047.mp3"
+    },
+    "004049": {
+        "file": "audio/act5/page_004049.mp3"
+    },
+    "004050": {
+        "file": "audio/act5/page_004050.mp3"
+    },
+    "004051": {
+        "file": "audio/act5/page_004051.mp3"
+    },
+    "004052": {
+        "file": "audio/act5/page_004052.mp3"
+    },
+    "004055": {
+        "file": "audio/act5/page_004055.mp3"
+    },
+    "004056": {
+        "file": "audio/act5/page_004056.mp3"
+    },
+    "004057": {
+        "file": "audio/act5/page_004057.mp3"
+    },
+    "004058": {
+        "file": "audio/act5/page_004058.mp3"
+    },
+    "004059": {
+        "file": "audio/act5/page_004059.mp3"
+    },
+    "004060": {
+        "file": "audio/act5/page_004060.mp3"
+    },
+    "004061": {
+        "file": "audio/act5/page_004061.mp3"
+    },
+    "004062": {
+        "file": "audio/act5/page_004062.mp3"
+    },
+    "004064": {
+        "file": "audio/act5/page_004064.mp3"
+    },
+    "004065": {
+        "file": "audio/act5/page_004065.mp3"
+    },
+    "004066": {
+        "file": "audio/act5/page_004066.mp3"
+    },
+    "004067": {
+        "file": "audio/act5/page_004067.mp3"
+    },
+    "004068": {
+        "file": "audio/act5/page_004068.mp3"
+    },
+    "004069": {
+        "file": "audio/act5/page_004069.mp3"
+    },
+    "004070": {
+        "file": "audio/act5/page_004070.mp3"
+    },
+    "004071": {
+        "file": "audio/act5/page_004071.mp3"
+    },
+    "004072": {
+        "file": "audio/act5/page_004072.mp3"
+    },
+    "004073": {
+        "file": "audio/act5/page_004073.mp3"
+    },
+    "004074": {
+        "file": "audio/act5/page_004074.mp3"
+    },
+    "004075": {
+        "file": "audio/act5/page_004075.mp3"
+    },
+    "004076": {
+        "file": "audio/act5/page_004076.mp3"
+    },
+    "004077": {
+        "file": "audio/act5/page_004077.mp3"
+    },
+    "004078": {
+        "file": "audio/act5/page_004078.mp3"
+    },
+    "004079": {
+        "file": "audio/act5/page_004079.mp3"
+    },
+    "004080": {
+        "file": "audio/act5/page_004080.mp3"
+    },
+    "004083": {
+        "file": "audio/act5/page_004083.mp3"
+    },
+    "004084": {
+        "file": "audio/act5/page_004084.mp3"
+    },
+    "004085": {
+        "file": "audio/act5/page_004085.mp3"
+    },
+    "004086": {
+        "file": "audio/act5/page_004086.mp3"
+    },
+    "004087": {
+        "file": "audio/act5/page_004087.mp3"
+    },
+    "004088": {
+        "file": "audio/act5/page_004088.mp3"
+    },
+    "004089": {
+        "file": "audio/act5/page_004089.mp3"
+    },
+    "004090": {
+        "file": "audio/act5/page_004090.mp3"
+    },
+    "004091": {
+        "file": "audio/act5/page_004091.mp3"
+    },
+    "004092": {
+        "file": "audio/act5/page_004092.mp3"
+    },
+    "004093": {
+        "file": "audio/act5/page_004093.mp3"
+    },
+    "004094": {
+        "file": "audio/act5/page_004094.mp3"
+    },
+    "004095": {
+        "file": "audio/act5/page_004095.mp3"
+    },
+    "004096": {
+        "file": "audio/act5/page_004096.mp3"
+    },
+    "004097": {
+        "file": "audio/act5/page_004097.mp3"
+    },
+    "004098": {
+        "file": "audio/act5/page_004098.mp3"
+    },
+    "004099": {
+        "file": "audio/act5/page_004099.mp3"
+    },
+    "004100": {
+        "file": "audio/act5/page_004100.mp3"
+    },
+    "004101": {
+        "file": "audio/act5/page_004101.mp3"
+    },
+    "004102": {
+        "file": "audio/act5/page_004102.mp3",
+        "cleanFile": "audio/act5/page_004102_clean.mp3"
+    },
+    "004103": {
+        "file": "audio/act5/page_004103.mp3"
+    },
+    "004104": {
+        "file": "audio/act5/page_004104.mp3"
+    },
+    "004105": {
+        "file": "audio/act5/page_004105.mp3"
+    },
+    "004106": {
+        "file": "audio/act5/page_004106.mp3"
+    },
+    "004107": {
+        "file": "audio/act5/page_004107.mp3"
+    },
+    "004110": {
+        "file": "audio/act5/page_004110.mp3"
+    },
+    "004111": {
+        "file": "audio/act5/page_004111.mp3"
+    },
+    "004112": {
+        "file": "audio/act5/page_004112.mp3"
+    },
+    "004113": {
+        "file": "audio/act5/page_004113.mp3"
+    },
+    "004114": {
+        "file": "audio/act5/page_004114.mp3"
+    },
+    "004115": {
+        "file": "audio/act5/page_004115.mp3"
+    },
+    "004116": {
+        "file": "audio/act5/page_004116.mp3"
+    },
+    "004117": {
+        "file": "audio/act5/page_004117.mp3"
+    },
+    "004118": {
+        "file": "audio/act5/page_004118.mp3"
+    },
+    "004119": {
+        "file": "audio/act5/page_004119.mp3"
+    },
+    "004120": {
+        "file": "audio/act5/page_004120.mp3"
+    },
+    "004121": {
+        "file": "audio/act5/page_004121.mp3"
+    },
+    "004122": {
+        "file": "audio/act5/page_004122.mp3"
+    },
+    "004124": {
+        "file": "audio/act5/page_004124.mp3"
+    },
+    "004125": {
+        "file": "audio/act5/page_004125.mp3"
+    },
+    "004126": {
+        "file": "audio/act5/page_004126.mp3"
+    },
+    "004127": {
+        "file": "audio/act5/page_004127.mp3"
+    },
+    "004130": {
+        "file": "audio/act5/page_004130.mp3"
+    },
+    "004131": {
+        "file": "audio/act5/page_004131.mp3"
+    },
+    "004135": {
+        "file": "audio/act5/page_004135.mp3"
+    },
+    "004136": {
+        "file": "audio/act5/page_004136.mp3"
+    },
+    "004137": {
+        "file": "audio/act5/page_004137.mp3"
+    },
+    "004138": {
+        "file": "audio/act5/page_004138.mp3"
+    },
+    "004140": {
+        "file": "audio/act5/page_004140.mp3"
+    },
+    "004141": {
+        "file": "audio/act5/page_004141.mp3"
+    },
+    "004144": {
+        "file": "audio/act5/page_004144.mp3"
+    },
+    "004145": {
+        "file": "audio/act5/page_004145.mp3"
+    },
+    "004146": {
+        "file": "audio/act5/page_004146.mp3"
+    },
+    "004147": {
+        "file": "audio/act5/page_004147.mp3"
+    },
+    "004149": {
+        "file": "audio/act5/page_004149.mp3"
+    },
+    "004151": {
+        "file": "audio/act5/page_004151.mp3"
+    },
+    "004153": {
+        "file": "audio/act5/page_004153.mp3"
+    },
+    "004154": {
+        "file": "audio/act5/page_004154.mp3"
+    },
+    "004155": {
+        "file": "audio/act5/page_004155.mp3"
+    },
+    "004156": {
+        "file": "audio/act5/page_004156.mp3"
+    },
+    "004157": {
+        "file": "audio/act5/page_004157.mp3"
+    },
+    "004158": {
+        "file": "audio/act5/page_004158.mp3"
+    },
+    "004159": {
+        "file": "audio/act5/page_004159.mp3"
+    },
+    "004160": {
+        "file": "audio/act5/page_004160.mp3"
+    },
+    "004161": {
+        "file": "audio/act5/page_004161.mp3"
+    },
+    "004163": {
+        "file": "audio/act5/page_004163.mp3"
+    },
+    "004164": {
+        "file": "audio/act5/page_004164.mp3"
+    },
+    "004168": {
+        "file": "audio/act5/page_004168.mp3"
+    },
+    "004169": {
+        "file": "audio/act5/page_004169.mp3"
+    },
+    "004170": {
+        "file": "audio/act5/page_004170.mp3"
+    },
+    "004171": {
+        "file": "audio/act5/page_004171.mp3"
+    },
+    "004173": {
+        "file": "audio/act5/page_004173.mp3"
+    },
+    "004174": {
+        "file": "audio/act5/page_004174.mp3"
+    },
+    "004176": {
+        "file": "audio/act5/page_004176.mp3"
+    },
+    "004177": {
+        "file": "audio/act5/page_004177.mp3"
+    },
+    "004178": {
+        "file": "audio/act5/page_004178.mp3"
+    },
+    "004179": {
+        "file": "audio/act5/page_004179.mp3"
+    },
+    "004180": {
+        "file": "audio/act5/page_004180.mp3"
+    },
+    "004181": {
+        "file": "audio/act5/page_004181.mp3"
+    },
+    "004182": {
+        "file": "audio/act5/page_004182.mp3"
+    },
+    "004183": {
+        "file": "audio/act5/page_004183.mp3"
+    },
+    "004184": {
+        "file": "audio/act5/page_004184.mp3"
+    },
+    "004185": {
+        "file": "audio/act5/page_004185.mp3"
+    },
+    "004186": {
+        "file": "audio/act5/page_004186.mp3"
+    },
+    "004187": {
+        "file": "audio/act5/page_004187.mp3"
+    },
+    "004188": {
+        "file": "audio/act5/page_004188.mp3"
+    },
+    "004195": {
+        "file": "audio/act5/page_004195.mp3"
+    },
+    "004196": {
+        "file": "audio/act5/page_004196.mp3"
+    },
+    "004197": {
+        "file": "audio/act5/page_004197.mp3"
+    },
+    "004198": {
+        "file": "audio/act5/page_004198.mp3"
+    },
+    "004199": {
+        "file": "audio/act5/page_004199.mp3"
+    },
+    "004200": {
+        "file": "audio/act5/page_004200.mp3"
+    },
+    "004201": {
+        "file": "audio/act5/page_004201.mp3"
+    },
+    "004206": {
+        "file": "audio/act5/page_004206.mp3"
+    },
+    "004207": {
+        "file": "audio/act5/page_004207.mp3"
+    },
+    "004208": {
+        "file": "audio/act5/page_004208.mp3"
+    },
+    "004209": {
+        "file": "audio/act5/page_004209.mp3"
+    },
+    "004210": {
+        "file": "audio/act5/page_004210.mp3"
+    },
+    "004211": {
+        "file": "audio/act5/page_004211.mp3"
+    },
+    "004212": {
+        "file": "audio/act5/page_004212.mp3"
+    },
+    "004213": {
+        "file": "audio/act5/page_004213.mp3"
+    },
+    "004214": {
+        "file": "audio/act5/page_004214.mp3"
+    },
+    "004215": {
+        "file": "audio/act5/page_004215.mp3"
+    },
+    "004216": {
+        "file": "audio/act5/page_004216.mp3"
+    },
+    "004217": {
+        "file": "audio/act5/page_004217.mp3"
+    },
+    "004218": {
+        "file": "audio/act5/page_004218.mp3"
+    },
+    "004220": {
+        "file": "audio/act5/page_004220.mp3"
+    },
+    "004221": {
+        "file": "audio/act5/page_004221.mp3"
+    },
+    "004222": {
+        "file": "audio/act5/page_004222.mp3"
+    },
+    "004223": {
+        "file": "audio/act5/page_004223.mp3"
+    },
+    "004224": {
+        "file": "audio/act5/page_004224.mp3"
+    },
+    "004225": {
+        "file": "audio/act5/page_004225.mp3"
+    },
+    "004226": {
+        "file": "audio/act5/page_004226.mp3"
+    },
+    "004228": {
+        "file": "audio/act5/page_004228.mp3",
+        "cleanFile": "audio/act5/page_004228_clean.mp3"
+    },
+    "004229": {
+        "file": "audio/act5/page_004229.mp3"
+    },
+    "004231": {
+        "file": "audio/act5/page_004231.mp3"
+    },
+    "004232": {
+        "file": "audio/act5/page_004232.mp3"
+    },
+    "004233": {
+        "file": "audio/act5/page_004233.mp3"
+    },
+    "004237": {
+        "file": "audio/act5/page_004237.mp3"
+    },
+    "004238": {
+        "file": "audio/act5/page_004238.mp3"
+    },
+    "004239": {
+        "file": "audio/act5/page_004239.mp3"
+    },
+    "004241": {
+        "file": "audio/act5/page_004241.mp3"
+    },
+    "004242": {
+        "file": "audio/act5/page_004242.mp3"
+    },
+    "004243": {
+        "file": "audio/act5/page_004243.mp3"
+    },
+    "004244": {
+        "file": "audio/act5/page_004244.mp3"
+    },
+    "004245": {
+        "file": "audio/act5/page_004245.mp3"
+    },
+    "004246": {
+        "file": "audio/act5/page_004246.mp3"
+    },
+    "004247": {
+        "file": "audio/act5/page_004247.mp3"
+    },
+    "004248": {
+        "file": "audio/act5/page_004248.mp3"
+    },
+    "004249": {
+        "file": "audio/act5/page_004249.mp3"
+    },
+    "004250": {
+        "file": "audio/act5/page_004250.mp3"
+    },
+    "004251": {
+        "file": "audio/act5/page_004251.mp3"
+    },
+    "004252": {
+        "file": "audio/act5/page_004252.mp3"
+    },
+    "004253": {
+        "file": "audio/act5/page_004253.mp3"
+    },
+    "004254": {
+        "file": "audio/act5/page_004254.mp3"
+    },
+    "004256": {
+        "file": "audio/act5/page_004256.mp3"
+    },
+    "004257": {
+        "file": "audio/act5/page_004257.mp3"
+    },
+    "004258": {
+        "file": "audio/act5/page_004258.mp3"
+    },
+    "004259": {
+        "file": "audio/act5/page_004259.mp3"
+    },
+    "004260": {
+        "file": "audio/act5/page_004260.mp3"
+    },
+    "004261": {
+        "file": "audio/act5/page_004261.mp3"
+    },
+    "004263": {
+        "file": "audio/act5/page_004263.mp3"
+    },
+    "004264": {
+        "file": "audio/act5/page_004264.mp3"
+    },
+    "004265": {
+        "file": "audio/act5/page_004265.mp3"
+    },
+    "004266": {
+        "file": "audio/act5/page_004266.mp3"
+    },
+    "004267": {
+        "file": "audio/act5/page_004267.mp3"
+    },
+    "004269": {
+        "file": "audio/act5/page_004269.mp3"
+    },
+    "004270": {
+        "file": "audio/act5/page_004270.mp3"
+    },
+    "004271": {
+        "file": "audio/act5/page_004271.mp3"
+    },
+    "004272": {
+        "file": "audio/act5/page_004272.mp3"
+    },
+    "004273": {
+        "file": "audio/act5/page_004273.mp3"
+    },
+    "004275": {
+        "file": "audio/act5/page_004275.mp3"
+    },
+    "004276": {
+        "file": "audio/act5/page_004276.mp3"
+    },
+    "004277": {
+        "file": "audio/act5/page_004277.mp3"
+    },
+    "004278": {
+        "file": "audio/act5/page_004278.mp3"
+    },
+    "004279": {
+        "file": "audio/act5/page_004279.mp3"
+    },
+    "004286": {
+        "file": "audio/act5/page_004286.mp3"
+    },
+    "004287": {
+        "file": "audio/act5/page_004287.mp3"
+    },
+    "004288": {
+        "file": "audio/act5/page_004288.mp3"
+    },
+    "004289": {
+        "file": "audio/act5/page_004289.mp3"
+    },
+    "004290": {
+        "file": "audio/act5/page_004290.mp3"
+    },
+    "004291": {
+        "file": "audio/act5/page_004291.mp3"
+    },
+    "004292": {
+        "file": "audio/act5/page_004292.mp3"
+    },
+    "004293": {
+        "file": "audio/act5/page_004293.mp3"
+    },
+    "004294": {
+        "file": "audio/act5/page_004294.mp3"
+    },
+    "004295": {
+        "file": "audio/act5/page_004295.mp3"
+    },
+    "004296": {
+        "file": "audio/act5/page_004296.mp3"
+    },
+    "004297": {
+        "file": "audio/act5/page_004297.mp3"
+    },
+    "004298": {
+        "file": "audio/act5/page_004298.mp3"
+    },
+    "004300": {
+        "file": "audio/act5/page_004300.mp3"
+    },
+    "004301": {
+        "file": "audio/act5/page_004301.mp3"
+    },
+    "004302": {
+        "file": "audio/act5/page_004302.mp3"
+    },
+    "004303": {
+        "file": "audio/act5/page_004303.mp3"
+    },
+    "004304": {
+        "file": "audio/act5/page_004304.mp3"
+    },
+    "004305": {
+        "file": "audio/act5/page_004305.mp3"
+    },
+    "004306": {
+        "file": "audio/act5/page_004306.mp3"
+    },
+    "004307": {
+        "file": "audio/act5/page_004307.mp3"
+    },
+    "004308": {
+        "file": "audio/act5/page_004308.mp3"
+    },
+    "004309": {
+        "file": "audio/act5/page_004309.mp3"
+    },
+    "004311": {
+        "file": "audio/act5/page_004311.mp3"
+    },
+    "004312": {
+        "file": "audio/act5/page_004312.mp3"
+    },
+    "004314": {
+        "file": "audio/act5/page_004314.mp3"
+    },
+    "004321": {
+        "file": "audio/act5/page_004321.mp3"
+    },
+    "004322": {
+        "file": "audio/act5/page_004322.mp3"
+    },
+    "004323": {
+        "file": "audio/act5/page_004323.mp3"
+    },
+    "004336": {
+        "file": "audio/act5/page_004336.mp3"
+    },
+    "004337": {
+        "file": "audio/act5/page_004337.mp3"
+    },
+    "004338": {
+        "file": "audio/act5/page_004338.mp3"
+    },
+    "004339": {
+        "file": "audio/act5/page_004339.mp3"
+    },
+    "004340": {
+        "file": "audio/act5/page_004340.mp3"
+    },
+    "004341": {
+        "file": "audio/act5/page_004341.mp3"
+    },
+    "004342": {
+        "file": "audio/act5/page_004342.mp3"
+    },
+    "004343": {
+        "file": "audio/act5/page_004343.mp3"
+    },
+    "004344": {
+        "file": "audio/act5/page_004344.mp3"
+    },
+    "004345": {
+        "file": "audio/act5/page_004345.mp3"
+    },
+    "004346": {
+        "file": "audio/act5/page_004346.mp3"
+    },
+    "004347": {
+        "file": "audio/act5/page_004347.mp3"
+    },
+    "004348": {
+        "file": "audio/act5/page_004348.mp3"
+    },
+    "004349": {
+        "file": "audio/act5/page_004349.mp3"
+    },
+    "004350": {
+        "file": "audio/act5/page_004350.mp3"
+    },
+    "004351": {
+        "file": "audio/act5/page_004351.mp3"
+    },
+    "004352": {
+        "file": "audio/act5/page_004352.mp3"
+    },
+    "004355": {
+        "file": "audio/act5/page_004355.mp3"
+    },
+    "004356": {
+        "file": "audio/act5/page_004356.mp3"
+    },
+    "004357": {
+        "file": "audio/act5/page_004357.mp3"
+    },
+    "004358": {
+        "file": "audio/act5/page_004358.mp3"
+    },
+    "004359": {
+        "file": "audio/act5/page_004359.mp3"
+    },
+    "004360": {
+        "file": "audio/act5/page_004360.mp3"
+    },
+    "004361": {
+        "file": "audio/act5/page_004361.mp3"
+    },
+    "004362": {
+        "file": "audio/act5/page_004362.mp3"
+    },
+    "004363": {
+        "file": "audio/act5/page_004363.mp3"
+    },
+    "004364": {
+        "file": "audio/act5/page_004364.mp3"
+    },
+    "004365": {
+        "file": "audio/act5/page_004365.mp3"
+    },
+    "004366": {
+        "file": "audio/act5/page_004366.mp3"
+    },
+    "004367": {
+        "file": "audio/act5/page_004367.mp3"
+    },
+    "004369": {
+        "file": "audio/act5/page_004369.mp3"
+    },
+    "004370": {
+        "file": "audio/act5/page_004370.mp3"
+    },
+    "004371": {
+        "file": "audio/act5/page_004371.mp3"
+    },
+    "004372": {
+        "file": "audio/act5/page_004372.mp3"
+    },
+    "004375": {
+        "file": "audio/act5/page_004375.mp3"
+    },
+    "004376": {
+        "file": "audio/act5/page_004376.mp3"
+    },
+    "004377": {
+        "file": "audio/act5/page_004377.mp3"
+    },
+    "004378": {
+        "file": "audio/act5/page_004378.mp3"
+    },
+    "004382": {
+        "file": "audio/act5/page_004382.mp3"
+    },
+    "004383": {
+        "file": "audio/act5/page_004383.mp3"
+    },
+    "004385": {
+        "file": "audio/act5/page_004385.mp3"
+    },
+    "004387": {
+        "file": "audio/act5/page_004387.mp3"
+    },
+    "004388": {
+        "file": "audio/act5/page_004388.mp3"
+    },
+    "004389": {
+        "file": "audio/act5/page_004389.mp3"
+    },
+    "004391": {
+        "file": "audio/act5/page_004391.mp3"
+    },
+    "004392": {
+        "file": "audio/act5/page_004392.mp3"
+    },
+    "004393": {
+        "file": "audio/act5/page_004393.mp3"
+    },
+    "004394": {
+        "file": "audio/act5/page_004394.mp3"
+    },
+    "004395": {
+        "file": "audio/act5/page_004395.mp3"
+    },
+    "004396": {
+        "file": "audio/act5/page_004396.mp3"
+    },
+    "004397": {
+        "file": "audio/act5/page_004397.mp3"
+    },
+    "004398": {
+        "file": "audio/act5/page_004398.mp3"
+    },
+    "004399": {
+        "file": "audio/act5/page_004399.mp3"
+    },
+    "004400": {
+        "file": "audio/act5/page_004400.mp3"
+    },
+    "004401": {
+        "file": "audio/act5/page_004401.mp3"
+    },
+    "004403": {
+        "file": "audio/act5/page_004403.mp3"
+    },
+    "004404": {
+        "file": "audio/act5/page_004404.mp3"
+    },
+    "004405": {
+        "file": "audio/act5/page_004405.mp3"
+    },
+    "004406": {
+        "file": "audio/act5/page_004406.mp3"
+    },
+    "004407": {
+        "file": "audio/act5/page_004407.mp3"
+    },
+    "004408": {
+        "file": "audio/act5/page_004408.mp3"
+    },
+    "004409": {
+        "file": "audio/act5/page_004409.mp3"
+    },
+    "004410": {
+        "file": "audio/act5/page_004410.mp3"
+    },
+    "004411": {
+        "file": "audio/act5/page_004411.mp3"
+    },
+    "004413": {
+        "file": "audio/act5/page_004413.mp3"
+    },
+    "004414": {
+        "file": "audio/act5/page_004414.mp3"
+    },
+    "004415": {
+        "file": "audio/act5/page_004415.mp3"
+    },
+    "004416": {
+        "file": "audio/act5/page_004416.mp3"
+    },
+    "004421": {
+        "file": "audio/act5/page_004421.mp3"
+    },
+    "004422": {
+        "file": "audio/act5/page_004422.mp3"
+    },
+    "004423": {
+        "file": "audio/act5/page_004423.mp3"
+    },
+    "004424": {
+        "file": "audio/act5/page_004424.mp3"
+    },
+    "004425": {
+        "file": "audio/act5/page_004425.mp3"
+    },
+    "004426": {
+        "file": "audio/act5/page_004426.mp3"
+    },
+    "004429": {
+        "file": "audio/act5/page_004429.mp3"
+    },
+    "004430": {
+        "file": "audio/act5/page_004430.mp3"
+    },
+    "004431": {
+        "file": "audio/act5/page_004431.mp3"
+    },
+    "004432": {
+        "file": "audio/act5/page_004432.mp3"
+    },
+    "004433": {
+        "file": "audio/act5/page_004433.mp3"
+    },
+    "004440": {
+        "file": "audio/act5/page_004440.mp3"
+    },
+    "004441": {
+        "file": "audio/act5/page_004441.mp3"
+    },
+    "004442": {
+        "file": "audio/act5/page_004442.mp3"
+    },
+    "004443": {
+        "file": "audio/act5/page_004443.mp3",
+        "cleanFile": "audio/act5/page_004443_clean.mp3"
+    },
+    "004444": {
+        "file": "audio/act5/page_004444.mp3"
+    },
+    "004445": {
+        "file": "audio/act5/page_004445.mp3"
+    },
+    "004446": {
+        "file": "audio/act5/page_004446.mp3"
+    },
+    "004447": {
+        "file": "audio/act5/page_004447.mp3",
+        "cleanFile": "audio/act5/page_004447_clean.mp3"
+    },
+    "004448": {
+        "file": "audio/act5/page_004448.mp3"
+    },
+    "004449": {
+        "file": "audio/act5/page_004449.mp3"
+    },
+    "004450": {
+        "file": "audio/act5/page_004450.mp3"
+    },
+    "004451": {
+        "file": "audio/act5/page_004451.mp3"
+    },
+    "004452": {
+        "file": "audio/act5/page_004452.mp3"
+    },
+    "004453": {
+        "file": "audio/act5/page_004453.mp3"
+    },
+    "004454": {
+        "file": "audio/act5/page_004454.mp3"
+    },
+    "004455": {
+        "file": "audio/act5/page_004455.mp3"
+    },
+    "004457": {
+        "file": "audio/act5/page_004457.mp3"
+    },
+    "004458": {
+        "file": "audio/act5/page_004458.mp3"
+    },
+    "004459": {
+        "file": "audio/act5/page_004459.mp3"
+    },
+    "004465": {
+        "file": "audio/act5/page_004465.mp3"
+    },
+    "004467": {
+        "file": "audio/act5/page_004467.mp3"
+    },
+    "004468": {
+        "file": "audio/act5/page_004468.mp3"
+    },
+    "004469": {
+        "file": "audio/act5/page_004469.mp3"
+    },
+    "004471": {
+        "file": "audio/act5/page_004471.mp3"
+    },
+    "004474": {
+        "file": "audio/act5/page_004474.mp3"
+    },
+    "004475": {
+        "file": "audio/act5/page_004475.mp3"
+    },
+    "004476": {
+        "file": "audio/act5/page_004476.mp3"
+    },
+    "004477": {
+        "file": "audio/act5/page_004477.mp3"
+    },
+    "004478": {
+        "file": "audio/act5/page_004478.mp3"
+    },
+    "004483": {
+        "file": "audio/act5/page_004483.mp3"
+    },
+    "004484": {
+        "file": "audio/act5/page_004484.mp3"
+    },
+    "004485": {
+        "file": "audio/act5/page_004485.mp3"
+    },
+    "004487": {
+        "file": "audio/act5/page_004487.mp3"
+    },
+    "004488": {
+        "file": "audio/act5/page_004488.mp3"
+    },
+    "004489": {
+        "file": "audio/act5/page_004489.mp3"
+    },
+    "004490": {
+        "file": "audio/act5/page_004490.mp3"
+    },
+    "004491": {
+        "file": "audio/act5/page_004491.mp3"
+    },
+    "004492": {
+        "file": "audio/act5/page_004492.mp3"
+    },
+    "004493": {
+        "file": "audio/act5/page_004493.mp3"
+    },
+    "004494": {
+        "file": "audio/act5/page_004494.mp3"
+    },
+    "004495": {
+        "file": "audio/act5/page_004495.mp3"
+    },
+    "004496": {
+        "file": "audio/act5/page_004496.mp3"
+    },
+    "004497": {
+        "file": "audio/act5/page_004497.mp3"
+    },
+    "004498": {
+        "file": "audio/act5/page_004498.mp3"
+    },
+    "004499": {
+        "file": "audio/act5/page_004499.mp3"
+    },
+    "004500": {
+        "file": "audio/act5/page_004500.mp3"
+    },
+    "004501": {
+        "file": "audio/act5/page_004501.mp3"
+    },
+    "004502": {
+        "file": "audio/act5/page_004502.mp3"
+    },
+    "004503": {
+        "file": "audio/act5/page_004503.mp3"
+    },
+    "004504": {
+        "file": "audio/act5/page_004504.mp3"
+    },
+    "004505": {
+        "file": "audio/act5/page_004505.mp3"
+    },
+    "004506": {
+        "file": "audio/act5/page_004506.mp3"
+    },
+    "004507": {
+        "file": "audio/act5/page_004507.mp3"
+    },
+    "004508": {
+        "file": "audio/act5/page_004508.mp3"
+    },
+    "004509": {
+        "file": "audio/act5/page_004509.mp3"
+    },
+    "004510": {
+        "file": "audio/act5/page_004510.mp3"
+    },
+    "004517": {
+        "file": "audio/act5/page_004517.mp3"
+    },
+    "004518": {
+        "file": "audio/act5/page_004518.mp3"
+    },
+    "004524": {
+        "file": "audio/act5/page_004524.mp3"
     }
 }
