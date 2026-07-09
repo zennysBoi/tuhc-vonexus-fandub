@@ -1,12 +1,12 @@
 README
 Voice Over Nexus Fandub
-v0.5
+v1.0
 as implemented by zenny
 
 Adds Voice Over Nexus' Homestuck fan-dub to the Collection. By default, clips are set to autoplay and are at 70% volume (or they should be, at least), both of which can be changed in the settings of the mod in UHC. There is also an option to toggle the censoring of slurs, and an option to toggle on the complete voice-over for recaps.
 
 ===Notes=======================================
-- **THIS DUB IS NOT COMPLETE**. As many reading this can attest, Homestuck is very big, and a project such as a fandub that is done out of love and force of will takes a lot of time. As of version 0.5, this mod implements the fandub up to page 4112 (meaning Acts 1, 2, 3, 4, 5 and Intermission 1 are all fully implemented).
+- **THIS DUB IS NOT COMPLETE**. As many reading this can attest, Homestuck is very big, and a project such as a fandub that is done out of love and force of will takes a lot of time. As of version 1.0, this mod implements the fandub up to page 5924 (meaning Acts 1, 2, 3, 4, 5, Intermission 1, and Act 6 Acts 1 through 5 are all fully implemented). As of writing this, this mod is up-to-date with the fandub.
 
 -**THIS DUB IS NOT MINE**, and neither is the Unofficial Homestuck Collection or Homestuck itself. I take no credit for the creation of the dub, I just made a simple mod to give the UHC the assets and pointers to do this.
 
@@ -40,4 +40,4 @@ https://bsky.app/profile/voxus.bsky.social
 https://voiceovernexus.tumblr.com/post/22411586910/cast-list
 
 Started - 5/21/26
-Released - [TBD]
+Released - 7/9/26
